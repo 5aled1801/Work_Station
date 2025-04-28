@@ -6,7 +6,7 @@
 //
 // Scripts
 // 
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
